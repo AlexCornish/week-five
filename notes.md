@@ -4,7 +4,10 @@
 - Most likely the setting used would affect the tone of what is produced and subsequent how the music seems or makes someone feel, like darker sounding instruments and lower notes for darker topics, and lighter notes and instruments for lighter topic. However, combining dark subject matter with lighter notes and instruments is probably a bad idea.
 
 # Mapping
+
 ## StoryMapping
 <iframe src="https://uploads.knightlab.com/storymapjs/7fd7c001989c0f45c16ec902be4c59a4/bass-reeves/index.html" frameborder="0" width="100%" height="800"></iframe>
+
 ## Webmapping with Leaftlet
+
 ### Do you see how you could recenter the map on Ottawa? Add some more data? Change the base map to another style?
