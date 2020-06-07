@@ -11,3 +11,6 @@
 ## Webmapping with Leaftlet
 
 ### Do you see how you could recenter the map on Ottawa? Add some more data? Change the base map to another style?
+- The center point of the map can be changed in the point-data.geojson and more data presumably can be added by adding another feature geojson object into the point-data.geojson file. As for changing the style, I have no idea.
+### Technological / Human failures
+- Can't seem to start a http server using the command line, also tried that with anaconda to no avail, found a workaround though and was able to view the map and complete the rest of this part.
