@@ -11,6 +11,8 @@
 ## Webmapping with Leaftlet
 
 ### Do you see how you could recenter the map on Ottawa? Add some more data? Change the base map to another style?
-- The center point of the map can be changed in the point-data.geojson and more data presumably can be added by adding another feature geojson object into the point-data.geojson file. As for changing the style, I have no idea.
+- The center point of the map can be changed in the point-data.geojson and more data presumably can be added by adding another feature geojson object into the point-data.geojson file. As for changing the style, I would assume that can be done in the index.html page, maybe in the input parameter to the tileLayer function.
 ### Human failures
 - Could seem to start a http server using the command line, took me a few minutes to realise that I was using the regular windows command prompt instead of the anaconda powershell.
+### Link to rectified map
+http://mapwarper.net/maps/tile/48020/{z}/{x}/{y}.png
