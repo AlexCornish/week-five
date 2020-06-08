@@ -16,3 +16,6 @@
 - Could seem to start a http server using the command line, took me a few minutes to realise that I was using the regular windows command prompt instead of the anaconda powershell.
 ### Link to rectified map
 http://mapwarper.net/maps/tile/48020/{z}/{x}/{y}.png
+
+### Human / Technological Failures
+- Neither index2.html nor index3.html worked after making the changes required for index2.html. Only the background appeared with none of the rest of the stuff appearing and no error codes or warnings being produced in the command prompt or the developer console. 
